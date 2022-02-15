@@ -1,0 +1,57 @@
+body
+{
+    background: url(https://c0.wallpaperflare.com/preview/452/100/984/restaurant-bar-coffee-shop.jpg) no-repeat center center fixed; 
+ 
+  background-size: cover; 
+  color: rgb(252, 249, 246);
+} 
+.cold, .hot
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+img
+{
+   width: 250px;
+}
+figcaption
+{
+    font-size: 30px;
+   padding-left: 60px;
+}
+span
+{
+    font-size: 60px;
+    text-align: center;
+}
+.welc 
+{
+    border: 5px solid rgb(255, 255, 255);
+    margin: 10px;
+    padding: 30px;
+    padding-left: 30%;
+    background-color: rgba(75, 73, 64, 0.705);
+}
+a
+{
+    margin: 2%;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    border: 7px solid rgba(26, 23, 21, 0.568);
+    background-color: rgba(94, 79, 79, 0.918);
+    border-radius: 20px;
+    box-shadow:0 0 11px 3px #c69898 inset;
+    transition-duration: 0.5s;
+}
+a:hover
+{
+    color: rgb(31, 13, 13);
+    font-size: 230%;
+ 
+}
+::selection
+{
+   background-color: rgb(90, 67, 67);
+}
+

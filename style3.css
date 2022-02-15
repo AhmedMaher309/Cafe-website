@@ -1,0 +1,70 @@
+.reserve
+{
+    font-size: 400%;
+    padding-left: 30%;
+
+}
+body
+{
+    background-color: black;
+    background-image: url(https://img.freepik.com/free-photo/restaurant_23-2148014999.jpg?size=626&ext=jpg);
+    background-repeat: repeat;
+    background-size: cover; 
+    /* background-size: 100% 100%; */
+    color: white;
+    margin-left: 4%;
+}
+.thanks
+{
+    font-size: 400%;
+    margin-top: 5%;
+    border: 5px solid #080706;
+    background-color: rgb(225 219 210 / 38%);
+    /* padding-right: 5%; */
+    text-align:center;
+    box-shadow:  0 0 14px 14px rgb(36 32 32 / 60%) inset;
+    border-radius:10px ;
+    -webkit-border-radius:10px ;
+    -moz-border-radius:10px ;
+    -ms-border-radius:10px ;
+    -o-border-radius:10px ;
+}
+
+a
+{
+    text-decoration: none;
+}
+.click
+{
+    color: rgb(255, 255, 255);
+
+}
+
+a:hover
+{
+    color: rgb(31, 12, 12);
+}
+.thanks:hover
+{
+    color: rgb(31, 12, 12);
+    /* width: 20%; */
+   
+}
+
+.check
+{
+    font-size: 30px;
+}
+.submit:hover
+{
+    color: rgb(31, 12, 12);
+}
+.hidden
+{
+  /* visibility: hidden; */
+  font-size: 25px;
+}
+::selection
+{
+   background-color: rgb(90, 67, 67);
+}
