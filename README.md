@@ -1,2 +1,2 @@
 # Cafe-website-
-A frontend website using html and css
+A frontend cafe website using html and css
